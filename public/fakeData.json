@@ -1,0 +1,291 @@
+[
+    {
+        "college_id": 1,
+        "college_name": "XYZ College of Engineering",
+        "college_image": "https://ceconline.edu/wp-content/uploads/2022/07/pic1-01-scaled.jpeg",
+        "admission_process": "Admissions are based on national-level entrance exams and counseling.",
+        "events": [
+          {
+            "event_name": "Tech Expo 2023",
+            "event_date": "2023-09-20",
+            "event_description": "A showcase of innovative technology projects and research.",
+            "event_image": "https://pbs.twimg.com/media/DMZaNJJW4AA25Ak?format=jpg&name=4096x4096"
+          },
+          {
+            "event_name": "Cultural Fest 2023",
+            "event_date": "2023-11-15",
+            "event_description": "A celebration of diverse cultures with performances and competitions.",
+            "event_image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/college-event-template-%28technical-event%29-design-326619bf99a3a2d6b980d7c3caa2bbcf_screen.jpg?ts=1591346589"
+          }
+        ],
+        "research_works": [
+          {
+            "project_title": "Robotics Advancements",
+            "project_description": "Research on developing advanced robotic systems.",
+            "researchers": ["John Smith", "Emma Johnson"],
+            "project_image": "https://media.istockphoto.com/id/971071086/photo/group-of-students-working-on-their-engineering-project.jpg?s=1024x1024&w=is&k=20&c=WhcmuVrTexbAuLV707ovXKFC7eA_qpZfIqPg43540Zk="
+          },
+          {
+            "project_title": "AI in Healthcare",
+            "project_description": "Exploring the applications of AI in improving healthcare services.",
+            "researchers": ["Michael Brown", "Sophia Lee"],
+            "project_image": "https://media.istockphoto.com/id/506677784/photo/engineering-students-working-in-the-lab.jpg?s=1024x1024&w=is&k=20&c=Pe8eZAUX2pEPHfUoC4LK8xUZO8kqUWRZmGr44S4jYG8="
+          }
+        ],
+        "sports": [
+          {
+            "sport_name": "Cricket",
+            "team_name": "Tech Titans",
+            "team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdqmMzlhmDstiAzHdz14MyS_NzOVNt6YwkGg&usqp=CAU",
+            "achievements": "Winners of the Intercollegiate Cricket Tournament 2022."
+          },
+          {
+            "sport_name": "Basketball",
+            "team_name": "Engineering Eagles",
+            "team_logo": "https://img.freepik.com/free-vector/basketball-ball-isolated_1284-42545.jpg",
+            "achievements": "Runners-up in the State Basketball Championship 2022."
+          }
+        ]
+      },
+      {
+        "college_id": 2,
+        "college_name": "ABC Medical College",
+        "college_image": "https://collegelearners.com/wp-content/uploads/2020/09/JHU_Gilman_Hall.jpg",
+        "admission_process": "Admissions are based on national medical entrance exams and interviews.",
+        "events": [
+          {
+            "event_name": "Medical Conference 2023",
+            "event_date": "2023-10-10",
+            "event_description": "A conference on recent medical advancements and research.",
+            "event_image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/college-event-template-%28technical-event%29-design-326619bf99a3a2d6b980d7c3caa2bbcf_screen.jpg?ts=1591346589"
+          },
+          {
+            "event_name": "Health Awareness Campaign",
+            "event_date": "2023-12-05",
+            "event_description": "An initiative to raise awareness about various health issues.",
+            "event_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9qHUuywq8wkeySickM6aMV4uDphrzVnY7qg&usqp=CAU"
+          }
+        ],
+        "research_works": [
+          {
+            "project_title": "Cancer Research",
+            "project_description": "Research on understanding and treating different types of cancer.",
+            "researchers": ["Emily Davis", "David Chen"],
+            "project_image": "https://media.istockphoto.com/id/971071086/photo/group-of-students-working-on-their-engineering-project.jpg?s=1024x1024&w=is&k=20&c=WhcmuVrTexbAuLV707ovXKFC7eA_qpZfIqPg43540Zk="
+          },
+          {
+            "project_title": "Infectious Diseases",
+            "project_description": "Studying the causes and prevention of infectious diseases.",
+            "researchers": ["Olivia White", "Daniel Kim"],
+            "project_image": "https://media.istockphoto.com/id/506677784/photo/engineering-students-working-in-the-lab.jpg?s=1024x1024&w=is&k=20&c=Pe8eZAUX2pEPHfUoC4LK8xUZO8kqUWRZmGr44S4jYG8="
+          }
+        ],
+        "sports": [
+          {
+            "sport_name": "Football",
+            "team_name": "Medical Mavericks",
+            "team_logo": "https://a.storyblok.com/f/112937/568x464/82f66c3a21/all_the_english-_football_terms_you_need_to_know_blog-hero-low.jpg/m/620x0/filters:quality(70)/",
+            "achievements": "Winners of the National Medical College Football Cup 2022."
+          },
+          {
+            "sport_name": "Tennis",
+            "team_name": "Healthcare Aces",
+            "team_logo": "https://media.istockphoto.com/id/1345493117/vector/tennis-racket-icon-stock-vector-tennis-logo-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=5KLZBhn5hIDSBM_Y5lS8fgeqA8bZW4AtpuXzx0VU9mg=",
+            "achievements": "Runners-up in the Intercollegiate Tennis Championship 2022."
+          }
+        ]
+      },
+      {
+        "college_id": 3,
+        "college_name": "PQR Business School",
+        "college_image": "https://images.shiksha.com/mediadata/images/1502175588php2pHqdu.jpeg",
+        "admission_process": "Admissions are based on entrance exams, group discussions, and interviews.",
+        "events": [
+          {
+            "event_name": "Startup Summit 2023",
+            "event_date": "2023-08-25",
+            "event_description": "A platform for aspiring entrepreneurs to pitch their business ideas.",
+            "event_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9qHUuywq8wkeySickM6aMV4uDphrzVnY7qg&usqp=CAU"
+          },
+          {
+            "event_name": "Marketing Masterclass",
+            "event_date": "2023-10-30",
+            "event_description": "A workshop on the latest trends and strategies in marketing.",
+            "event_image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/college-event-template-%28technical-event%29-design-326619bf99a3a2d6b980d7c3caa2bbcf_screen.jpg?ts=1591346589"
+          }
+        ],
+        "research_works": [
+          {
+            "project_title": "Business Ethics",
+            "project_description": "Research on the importance of ethical practices in the corporate world.",
+            "researchers": ["John Smith", "Emma Johnson"],
+            "project_image": "https://media.istockphoto.com/id/506677784/photo/engineering-students-working-in-the-lab.jpg?s=1024x1024&w=is&k=20&c=Pe8eZAUX2pEPHfUoC4LK8xUZO8kqUWRZmGr44S4jYG8="
+          },
+          {
+            "project_title": "Consumer Behavior Analysis",
+            "project_description": "Studying consumer behavior and its impact on marketing decisions.",
+            "researchers": ["Michael Brown", "Sophia Lee"],
+            "project_image": "https://media.istockphoto.com/id/971071086/photo/group-of-students-working-on-their-engineering-project.jpg?s=1024x1024&w=is&k=20&c=WhcmuVrTexbAuLV707ovXKFC7eA_qpZfIqPg43540Zk="
+          }
+        ],
+        "sports": [
+          {
+            "sport_name": "Cricket",
+            "team_name": "Business Blazers",
+            "team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdqmMzlhmDstiAzHdz14MyS_NzOVNt6YwkGg&usqp=CAU",
+            "achievements": "Winners of the Intercollegiate Business Cricket Tournament 2022."
+          },
+          {
+            "sport_name": "Table Tennis",
+            "team_name": "Marketing Paddlers",
+            "team_logo": "https://media.istockphoto.com/id/1345493117/vector/tennis-racket-icon-stock-vector-tennis-logo-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=5KLZBhn5hIDSBM_Y5lS8fgeqA8bZW4AtpuXzx0VU9mg=",
+            "achievements": "Runners-up in the State Table Tennis Championship 2022."
+          }
+        ]
+      },
+      {
+        "college_id": 4,
+        "college_name": "LMN Arts Institute",
+        "college_image": "https://i0.wp.com/hyperallergic-newspack.s3.amazonaws.com/uploads/2019/03/Fort_Lauderdale-Art-Institute.jpg",
+        "admission_process": "Admissions are based on portfolios and interviews for arts programs.",
+        "events": [
+          {
+            "event_name": "Art Exhibition 2023",
+            "event_date": "2023-09-10",
+            "event_description": "An exhibition showcasing the creativity and talent of art students.",
+            "event_image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/college-event-template-%28technical-event%29-design-326619bf99a3a2d6b980d7c3caa2bbcf_screen.jpg?ts=1591346589"
+          },
+          {
+            "event_name": "Cultural Extravaganza",
+            "event_date": "2023-11-05",
+            "event_description": "A grand event celebrating diverse cultures through performances.",
+            "event_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9qHUuywq8wkeySickM6aMV4uDphrzVnY7qg&usqp=CAU"
+          }
+        ],
+        "research_works": [
+          {
+            "project_title": "Modern Art Movements",
+            "project_description": "Research on the evolution and impact of modern art movements.",
+            "researchers": ["Emily Davis", "David Chen"],
+            "project_image": "https://media.istockphoto.com/id/971071086/photo/group-of-students-working-on-their-engineering-project.jpg?s=1024x1024&w=is&k=20&c=WhcmuVrTexbAuLV707ovXKFC7eA_qpZfIqPg43540Zk="
+          },
+          {
+            "project_title": "Preservation of Heritage",
+            "project_description": "Exploring strategies for preserving cultural heritage sites.",
+            "researchers": ["Olivia White", "Daniel Kim"],
+            "project_image": "https://media.istockphoto.com/id/506677784/photo/engineering-students-working-in-the-lab.jpg?s=1024x1024&w=is&k=20&c=Pe8eZAUX2pEPHfUoC4LK8xUZO8kqUWRZmGr44S4jYG8="
+          }
+        ],
+        "sports": [
+          {
+            "sport_name": "Basketball",
+            "team_name": "Artistic Hoops",
+            "team_logo": "https://img.freepik.com/free-vector/basketball-ball-isolated_1284-42545.jpg",
+            "achievements": "Winners of the State Arts College Basketball Championship 2022."
+          },
+          {
+            "sport_name": "Dance",
+            "team_name": "Dancing Colors",
+            "team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-LHxq_GbNIKpIphYnCEvfp6WuGs458AbDl6-FcWiaLoNlvv_o1hBY6Do53_K65Zt6-j8&usqp=CAU",
+            "achievements": "First place in the Intercollegiate Dance Competition 2022."
+          }
+        ]
+      },
+      {
+        "college_id": 5,
+        "college_name": "RST Law School",
+        "college_image": "https://georgetownvoice.com/wp-content/uploads/2016/11/GULC_south_quad-e1553828885213.jpg",
+        "admission_process": "Admissions are based on national law entrance exams and interviews.",
+        "events": [
+          {
+            "event_name": "Legal Symposium 2023",
+            "event_date": "2023-10-15",
+            "event_description": "A symposium on emerging legal issues and debates.",
+            "event_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9qHUuywq8wkeySickM6aMV4uDphrzVnY7qg&usqp=CAU"
+          },
+          {
+            "event_name": "Mock Trial Competition",
+            "event_date": "2023-12-10",
+            "event_description": "A competition to hone the advocacy skills of law students.",
+            "event_image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/college-event-template-%28technical-event%29-design-326619bf99a3a2d6b980d7c3caa2bbcf_screen.jpg?ts=1591346589"
+          }
+        ],
+        "research_works": [
+          {
+            "project_title": "Criminal Justice Reform",
+            "project_description": "Research on the need for criminal justice system reforms.",
+            "researchers": ["John Smith", "Emma Johnson"],
+            "project_image": "https://media.istockphoto.com/id/506677784/photo/engineering-students-working-in-the-lab.jpg?s=1024x1024&w=is&k=20&c=Pe8eZAUX2pEPHfUoC4LK8xUZO8kqUWRZmGr44S4jYG8="
+          },
+          {
+            "project_title": "Gender Equality in Law",
+            "project_description": "Examining the role of law in promoting gender equality.",
+            "researchers": ["Michael Brown", "Sophia Lee"],
+            "project_image": "https://media.istockphoto.com/id/971071086/photo/group-of-students-working-on-their-engineering-project.jpg?s=1024x1024&w=is&k=20&c=WhcmuVrTexbAuLV707ovXKFC7eA_qpZfIqPg43540Zk="
+          }
+        ],
+        "sports": [
+          {
+            "sport_name": "Cricket",
+            "team_name": "Law Warriors",
+            "team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdqmMzlhmDstiAzHdz14MyS_NzOVNt6YwkGg&usqp=CAU",
+            "achievements": "Winners of the National Law School Cricket Tournament 2022."
+          },
+          {
+            "sport_name": "Debate",
+            "team_name": "Legal Orators",
+            "team_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjo_ehsaDIdoJtGL61a7kd5_fofhzHucVMAymd-6lqZyyKb5abhLRx-6sgB7obZWsP8jE&usqp=CAU",
+            "achievements": "Champions of the Intercollegiate Debate Championship 2022."
+          }
+        ]
+      },
+      {
+        "college_id": 6,
+        "college_name": "UVW Science College",
+        "college_image": "https://www.american.edu/cas/news/images/hall-of-science-exterior-blue-skies-wide.jpg",
+        "admission_process": "Admissions are based on academic merit and aptitude tests for science programs.",
+        "events": [
+          {
+            "event_name": "Science Fair 2023",
+            "event_date": "2023-09-25",
+            "event_description": "A fair exhibiting science projects and experiments by students.",
+            "event_image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/college-event-template-%28technical-event%29-design-326619bf99a3a2d6b980d7c3caa2bbcf_screen.jpg?ts=1591346589"
+          },
+          {
+            "event_name": "Innovation Challenge",
+            "event_date": "2023-11-20",
+            "event_description": "A competition encouraging students to come up with innovative solutions.",
+            "event_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9qHUuywq8wkeySickM6aMV4uDphrzVnY7qg&usqp=CAU"
+          }
+        ],
+        "research_works": [
+          {
+            "project_title": "Climate Change Research",
+            "project_description": "Research on understanding and mitigating the impacts of climate change.",
+            "researchers": ["Emily Davis", "David Chen"],
+            "project_image": "https://media.istockphoto.com/id/971071086/photo/group-of-students-working-on-their-engineering-project.jpg?s=1024x1024&w=is&k=20&c=WhcmuVrTexbAuLV707ovXKFC7eA_qpZfIqPg43540Zk="
+          },
+          {
+            "project_title": "Genetic Engineering",
+            "project_description": "Studying the applications of genetic engineering in various fields.",
+            "researchers": ["Olivia White", "Daniel Kim"],
+            "project_image": "https://media.istockphoto.com/id/506677784/photo/engineering-students-working-in-the-lab.jpg?s=1024x1024&w=is&k=20&c=Pe8eZAUX2pEPHfUoC4LK8xUZO8kqUWRZmGr44S4jYG8="
+          }
+        ],
+        "sports": [
+          {
+            "sport_name": "Football",
+            "team_name": "Science Strikers",
+            "team_logo":  "https://a.storyblok.com/f/112937/568x464/82f66c3a21/all_the_english-_football_terms_you_need_to_know_blog-hero-low.jpg/m/620x0/filters:quality(70)/",
+            "achievements": "Winners of the State Science College Football Championship 2022."
+          },
+          {
+            "sport_name": "Athletics",
+            "team_name": "Track Titans",
+            "team_logo": "https://imgresizer.eurosport.com/unsafe/725x408/filters:format(jpeg):focal(1493x415:1495x413)/origin-imgresizer.eurosport.com/2023/07/17/3745714-76204208-2560-1440.jpg",
+            "achievements": "Champions of the National Science College Athletics Meet 2022."
+          }
+        ]
+      }
+              
+]
