@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { BookOpenIcon, Bars3BottomRightIcon, XMarkIcon } from '@heroicons/react/24/solid'
 import './navber.css'
+import { Link } from 'react-router-dom';
 const Navbar = () => {
     let Links =[
         {name:"HOME",link:"/"},
@@ -36,7 +37,7 @@ const Navbar = () => {
                   </li>)) 
               }
                       
-                  <button className="btn btn-sm btn-outline btn-success"><a href="#">Login</a></button>
+                 <Link to='login'> <button className="btn btn-sm btn-outline btn-success"><a href="#">Login</a></button></Link>
              
           </ul>
           

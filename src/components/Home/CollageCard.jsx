@@ -7,7 +7,7 @@ const CollageCard = () => {
     // console.log(collges)
 
     useEffect(()=>{
-        fetch('/fakeData.json')
+        fetch('https://endgame-project-server.vercel.app/collages')
         .then(res => res.json())
         .then( data => setCollages(data))
     },[])
